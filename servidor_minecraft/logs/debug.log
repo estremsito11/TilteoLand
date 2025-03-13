@@ -618,3 +618,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Mar2025 13:40:55.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
 [13Mar2025 13:45:28.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Mar2025 13:45:28.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 13:50:28.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 13:50:28.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Mar2025 13:55:28.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Mar2025 13:55:28.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
